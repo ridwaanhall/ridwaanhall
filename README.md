@@ -10,8 +10,7 @@
 </p>
 -->
 
-- 🏢 I'm currently working from home as a full-time frontend software engineer lead at [Sirka.io](https://sirka.io).
-- ⚙️ Additionally, I'm in the process of building my own software company, [FlexCode](https://flexcode.co.id).
+- 🏢 I'm currently studying at [University of Technology Yogyakarta](https://uty.ac.id).
 - ⚛️ I'm currently diving into the world of [Flask](https://flask.palletsprojects.com/) and [Django](https://www.djangoproject.com/).
 - ♻️ I'm on the lookout for collaboration opportunities in open source projects related to React.
 - 💬 Feel free to ask me anything related to React, styling, or anything.
