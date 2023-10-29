@@ -1,5 +1,6 @@
 <h1 class="flex"><img src="https://tva1.sinaimg.cn/large/e6c9d24egy1h1571l0uucg205k05egri.gif" width="32" />&nbsp;Hi, I'm Ridwan</h1>
 
+<!--
 <p align="left">
   <samp>
     <a href="https://ridwaanhall.com" target='_blank'>landing page</a> .
@@ -7,6 +8,7 @@
     <a href="https://ridwaanhall.id/blog" target='_blank'>blog</a> 
   </samp>
 </p>
+-->
 
 - 🏢 I'm currently working from home as a full-time frontend software engineer lead at [Sirka.io](https://sirka.io).
 - ⚙️ Additionally, I'm in the process of building my own software company, [FlexCode](https://flexcode.co.id).
@@ -28,8 +30,17 @@
 
 ### Statistics
 
-<span><img height="150"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridwaanhall&layout=compact&hide=php&langs_count=6" /></span>
+<span>
+    <img height="150"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridwaanhall&layout=compact&hide=php&langs_count=6" />
+</span>
 <!--
 <span><a href="https://wakatime.com/@ridwaanhall"><img height="150" src="https://github-readme-stats.vercel.app/api/wakatime?username=ridwaanhall&layout=compact&langs_count=6" /></a></span>-->
-<span><a href="https://github.com/ridwaanhall?tab=repositories&q=&type=&language=&sort=stargazers"><img height="150" src="https://github-readme-stats.vercel.app/api?username=ridwaanhall&show_icons=true&count_private=true&hide=contribs" /></a></span>
-<span><img src="https://github-readme-streak-stats.herokuapp.com/?user=ridwaanhall" height="150" alt="Stat Streak" /></span>
+<span>
+    <a href="https://github.com/ridwaanhall?tab=repositories&q=&type=&language=&sort=stargazers">
+        <img height="150" src="https://github-readme-stats.vercel.app/api?username=ridwaanhall&show_icons=true&count_private=true&hide=contribs" />
+    </a>
+</span>
+
+<span>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ridwaanhall" height="150" alt="Stat Streak" />
+</span>
