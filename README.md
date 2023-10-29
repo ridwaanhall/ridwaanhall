@@ -1,4 +1,4 @@
-<h1 class="flex"><img src="https://tva1.sinaimg.cn/large/e6c9d24egy1h1571l0uucg205k05egri.gif" width="32" />&nbsp;Hi, I'm Ryan</h1>
+<h1 class="flex"><img src="https://tva1.sinaimg.cn/large/e6c9d24egy1h1571l0uucg205k05egri.gif" width="32" />&nbsp;Hi, I'm Ridwan</h1>
 
 <p align="left">
   <samp>
@@ -18,7 +18,7 @@
 
 ####  Let's get in tocuh! Feel free to DM me for discussion!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Ryan%20Aulia-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ridwaanhall/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Ridwan%20Halim-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ridwaanhall/) 
 [![Mail Badge](https://img.shields.io/badge/-@ridwaanhall-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/ridwaanhall) 
 [![Twitter Badge](https://img.shields.io/badge/-@ridwaanhall-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ridwaanhall)](https://twitter.com/ridwaanhall) 
 [![Mail Badge](https://img.shields.io/badge/-ridwaanhall.dev@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ridwaanhall.dev@gmail.com)
