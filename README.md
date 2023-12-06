@@ -18,7 +18,7 @@
 - 😄 Pronouns: he/him
 
 
-####  Let's get in tocuh! Feel free to DM me for discussion!!
+####  Let's get in tocuh! Feel free to DM me for make discussion!!
 
 [![Linkedin Badge](https://img.shields.io/badge/-Ridwan%20Halim-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ridwaanhall/) 
 [![Mail Badge](https://img.shields.io/badge/-@ridwaanhall-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/ridwaanhall) 
