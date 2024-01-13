@@ -14,7 +14,7 @@
 - ⚛️ I'm currently diving into the world of [Python](https://www.python.org/) with focus on [Flask](https://flask.palletsprojects.com/) and [Django](https://www.djangoproject.com/).
 - 📚 I'm interested in [Data Science](https://en.wikipedia.org/wiki/Data_science) and [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning).
 - ♻️ I'm on the lookout for collaboration opportunities in open source projects related to Python.
-- 💬 Feel free to ask me anything related to Python, Flask, Data, AI, or anything else.
+- 💬 Feel free to ask me anything related to Python, Flask, AI, or anything else.
 - 😄 Pronouns: he/him
 
 
