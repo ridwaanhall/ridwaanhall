@@ -14,11 +14,15 @@
 - ⚛️ I'm currently diving into the world of [Python](https://www.python.org/) with focus on [Flask](https://flask.palletsprojects.com/) and [Django](https://www.djangoproject.com/).
 - 📚 I'm interested in Artificial Intellegence and Machine Learning.
 - ♻️ I'm on the lookout for collaboration opportunities in open source projects related to Python.
+<<<<<<< HEAD
 - 💬 Feel free to ask me anything related to Python, Flask, Django, AI, or anything.
+=======
+- 💬 Feel free to ask me anything related to Python, Flask, AI, or anything else.
+>>>>>>> 83b906f0a48f4b4477a7120e94f4d8e5d9317639
 - 😄 Pronouns: he/him
 
 
-####  Let's get in tocuh! Feel free to DM me for discussion!!
+####  Let's get in tocuh! Feel free to DM me for make discussion!!
 
 [![Linkedin Badge](https://img.shields.io/badge/-Ridwan%20Halim-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ridwaanhall/) 
 [![Mail Badge](https://img.shields.io/badge/-@ridwaanhall-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/ridwaanhall) 
