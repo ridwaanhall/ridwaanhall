@@ -12,9 +12,9 @@
 
 - 🏢 I'm currently studying as a Informatics at [University of Technology, Yogyakarta](https://uty.ac.id/).
 - ⚛️ I'm currently diving into the world of [Python](https://www.python.org/) with focus on [Flask](https://flask.palletsprojects.com/) and [Django](https://www.djangoproject.com/).
-- 📚 I'm interested in [Data Science](https://en.wikipedia.org/wiki/Data_science) and [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning).
+- 📚 I'm interested in Artificial Intellegence and Machine Learning.
 - ♻️ I'm on the lookout for collaboration opportunities in open source projects related to Python.
-- 💬 Feel free to ask me anything related to Python, Flask, Data, AI, or anything.
+- 💬 Feel free to ask me anything related to Python, Flask, Django, AI, or anything.
 - 😄 Pronouns: he/him
 
 
