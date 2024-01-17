@@ -15,7 +15,7 @@
 - 📚 I'm interested in Artificial Intellegence and Machine Learning.
 - ♻️ I'm on the lookout for collaboration opportunities in open source projects related to Python.
 - 💬 Feel free to ask me anything related to Python, Flask, Django, AI, or anything.
-- 😄 Pronouns: he/him
+- 😄 Pronouns: he/him.
 
 
 ####  Let's get in tocuh! Feel free to DM me for discussion!!
