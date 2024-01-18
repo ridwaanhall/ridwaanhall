@@ -33,12 +33,13 @@
 <span>
     <img height="150"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridwaanhall&layout=compact&hide=php&langs_count=6" />
 </span>
-<!--
+
 <span>
     <a href="https://wakatime.com/@ridwaanhall">
         <img height="150" src="https://github-readme-stats.vercel.app/api/wakatime?username=ridwaanhall&layout=compact&langs_count=6" />
     </a>
 </span>
+<!--
 <span>
     <a href="https://github.com/ridwaanhall?tab=repositories&q=&type=&language=&sort=stargazers">
         <img height="150" src="https://github-readme-stats.vercel.app/api?username=ridwaanhall&show_icons=true&count_private=true&hide=contribs" />
