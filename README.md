@@ -1,6 +1,6 @@
 <h1 class="flex"><img src="https://tva1.sinaimg.cn/large/e6c9d24egy1h1571l0uucg205k05egri.gif" width="32" />&nbsp;Hi, I'm Ridwan 👋</h1>
 
-<!--
+
 <p align="left">
   <samp>
     <a href="https://ridwaanhall.com" target='_blank'>landing page</a> .
@@ -8,7 +8,7 @@
     <a href="https://ridwaanhall.id/blog" target='_blank'>blog</a> 
   </samp>
 </p>
--->
+
 
 - 🏢 I'm currently studying as a Informatics at [University of Technology, Yogyakarta](https://uty.ac.id/).
 - ⚛️ I'm currently diving into the world of [Python](https://www.python.org/) with focus on [Flask](https://flask.palletsprojects.com/) and [Django](https://www.djangoproject.com/).
