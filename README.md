@@ -26,6 +26,7 @@
 [![Mail Badge](https://img.shields.io/badge/-ridwaanhall.dev@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ridwaanhall.dev@gmail.com)
 [![](https://komarev.com/ghpvc/?username=ridwaanhall&color=blue&label=Profile%20Views)](https://github.com/ridwaanhall/ridwaanhall)
 [![](https://img.shields.io/github/followers/ridwaanhall?label=GitHub%20Followers)](https://github.com/ridwaanhall)
+
 <br />
 
 ### Statistics
@@ -39,13 +40,11 @@
         <img height="150" src="https://github-readme-stats.vercel.app/api/wakatime?username=ridwaanhall&layout=compact&langs_count=6" />
     </a>
 </span>
-<!--
 <span>
     <a href="https://github.com/ridwaanhall?tab=repositories&q=&type=&language=&sort=stargazers">
         <img height="150" src="https://github-readme-stats.vercel.app/api?username=ridwaanhall&show_icons=true&count_private=true&hide=contribs" />
     </a>
 </span>
--->
 <span>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ridwaanhall" height="150" alt="Stat Streak" />
 </span>
