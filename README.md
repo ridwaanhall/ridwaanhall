@@ -11,7 +11,7 @@
   </samp>
 </p>
 
-- 🏢 I'm currently studying as a Informatics (Semester 6) at [University of Technology, Yogyakarta](https://uty.ac.id/).
+- 🏢 I'm currently studying as a Informatics (now in semester 6) at [University of Technology Yogyakarta](https://uty.ac.id/).
 - ⚛️ I'm currently diving into the world of [Python](https://www.python.org/) with focus on [Flask](https://flask.palletsprojects.com/) and [Django](https://www.djangoproject.com/).
 - 📚 I'm interested in Artificial Intellegence and Machine Learning.
 - ♻️ I'm on the lookout for collaboration opportunities in open source projects related to Python.
