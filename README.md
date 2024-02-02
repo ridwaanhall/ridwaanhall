@@ -6,7 +6,7 @@
 <p align="left">
   <samp>
     <a href="#" target='_blank'>landing page</a> .
-        <a href="#" target='_blank'>website & portfolio</a>
+    <a href="#" target='_blank'>website & portfolio</a> .
     <a href="#" target='_blank'>blog</a>
   </samp>
 </p>
