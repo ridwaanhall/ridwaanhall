@@ -11,7 +11,7 @@
   </samp>
 </p>
 
-<a href="https://wakatime.com/@018b799e-de53-4f7a-bb65-edc2df9f26d8"><img src="https://wakatime.com/badge/user/018b799e-de53-4f7a-bb65-edc2df9f26d8.svg" alt="Total time coded since Oct 29 2023" /></a>
+[![wakatime](https://wakatime.com/badge/user/018b799e-de53-4f7a-bb65-edc2df9f26d8.svg)](https://wakatime.com/@018b799e-de53-4f7a-bb65-edc2df9f26d8)
 
 - 🏢 I'm currently studying as a Informatics (now in semester 6) at [University of Technology Yogyakarta](https://uty.ac.id/).
 - ⚙️ Intern at the Intersection of Web Development at [GAOTek Inc.](https://gaotek.com/) and Machine Learning for Cyber Security at [iNeuron.oi](https://ineuron.ai/).
