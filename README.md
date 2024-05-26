@@ -3,13 +3,13 @@
   Hi, I'm Ridwan.
 </h1>
 
-<p align="left">
+<!--<p align="left">
   <samp>
     <a href="#" target='_blank'>landing page</a> .
     <a href="#" target='_blank'>website & portfolio</a> .
     <a href="#" target='_blank'>blog</a>
   </samp>
-</p>
+</p>-->
 
 [![wakatime](https://wakatime.com/badge/user/018b799e-de53-4f7a-bb65-edc2df9f26d8.svg)](https://wakatime.com/@018b799e-de53-4f7a-bb65-edc2df9f26d8)
 
