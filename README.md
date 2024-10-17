@@ -1,55 +1,90 @@
-<h1 class="flex">
+<h1 align="center">
   <img src="https://tva1.sinaimg.cn/large/e6c9d24egy1h1571l0uucg205k05egri.gif" width="32" />&nbsp;
-  Hi, I'm Ridwan.
+  Hi, I'm Ridwan Halim!
 </h1>
 
-<!--<p align="left">
-  <samp>
-    <a href="#" target='_blank'>landing page</a> .
-    <a href="#" target='_blank'>website & portfolio</a> .
-    <a href="#" target='_blank'>blog</a>
-  </samp>
-</p>-->
-
 [![wakatime](https://wakatime.com/badge/user/018b799e-de53-4f7a-bb65-edc2df9f26d8.svg)](https://wakatime.com/@018b799e-de53-4f7a-bb65-edc2df9f26d8)
-
-- 🏢 I'm currently studying as a Informatics (now in semester 7) at [University of Technology Yogyakarta](https://uty.ac.id/).
-- ⚙️ Ex-Intern at the Intersection of Web Development at [GAOTek Inc.](https://gaotek.com/) and Machine Learning for Cyber Security at [iNeuron.oi](https://ineuron.ai/).
-- ⚛️ I'm currently diving into the world of [Python](https://www.python.org/) with focus on Web Development: Flask and Django, AI: PyTorch, and Fetching data.
-- 📚 I'm interested in Artificial Intellegence and Machine Learning.
-- ♻️ I'm on the lookout for collaboration opportunities in open source projects related to Python.
-- 💬 Feel free to ask me anything related to Python, Flask, Django, AI, or anything.
-- 😄 Pronouns: he/him.
-
-####  Let's get in tocuh! Feel free to DM me for discussion!
-
-[![Linkedin Badge](https://img.shields.io/badge/-Ridwan%20Halim-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ridwaanhall/) 
-[![Mail Badge](https://img.shields.io/badge/-@ridwaanhall-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/ridwaanhall) 
-[![Twitter Badge](https://img.shields.io/badge/-@ridwaanhall-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ridwaanhall)](https://twitter.com/ridwaanhall) 
-[![Mail Badge](https://img.shields.io/badge/-ridwaanhall.dev@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ridwaanhall.dev@gmail.com)
-[![](https://komarev.com/ghpvc/?username=ridwaanhall&color=blue&label=Profile%20Views)](https://github.com/ridwaanhall/ridwaanhall)
+[![](https://komarev.com/ghpvc/?username=ridwaanhall&color=blue&label=Profile%20Views)](https://github.com/ridwaanhall)
 [![](https://img.shields.io/github/followers/ridwaanhall?label=GitHub%20Followers)](https://github.com/ridwaanhall)
 
-<br />
+---
 
-### Statistics
+### 🚀 About Me
+
+- 🏫 **Currently**: Studying **Informatics (Semester 7)** at [University of Technology Yogyakarta](https://uty.ac.id/).
+- 💼 **Experience**:
+  - **Founder** at Ridwaanhall Projects: Led projects in web development and machine learning, completing 30+ projects.
+  - **Machine Learning Intern for Cyber Security** at iNeuron.ai: Worked on phishing domain detection.
+  - **Web Development Intern** at GAOTek Inc.: Developed WordPress sites and led team communication.
+  - **Chief Secretary** at IKA-PPIM 2021: Managed alumni data and produced actionable insights.
+  - **Machine Learning Intern** at YoungDev: Built classification models with perfect accuracy.
+  - **Web Development Main Team Intern** at GAOTek Inc.: Gained experience in Google Analytics and Tag Manager.
+
+- 💻 **Tech Focus**:
+  - **AI & Machine Learning**: TensorFlow, PyTorch, NLP, Reinforcement Learning.
+  - **Web Development**: Flask, Django, React.js, WordPress.
+
+- 🎯 **Interests**: Artificial Intelligence, Machine Learning, Web Development.
+- 🔍 **Seeking**: Collaboration in AI, web development, and Python-related fields.
+- 🌐 **Portfolio**: [ridwaanhall.pythonanywhere.com](http://ridwaanhall.pythonanywhere.com/).
+
+---
+
+### 🛠 Tech Stack
+
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)
+![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=pytorch)
+![WordPress](https://img.shields.io/badge/-WordPress-05122A?style=flat&logo=wordpress)
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+
+---
+
+### 📜 Certifications
+
+- Artificial Intelligence Foundations: Neural Networks by LinkedIn
+- Exploring AIOps by LinkedIn
+- Career Essentials in Generative AI by Microsoft and LinkedIn
+- Introduction to Artificial Intelligence by LinkedIn
+- Artificial Intelligence Foundations: Machine Learning
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
 
 <span>
-    <img height="150"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridwaanhall&layout=compact&hide=php&langs_count=6" />
+    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridwaanhall&layout=compact&hide=php&langs_count=6" alt="Top Languages" />
 </span>
 
 <span>
     <a href="https://wakatime.com/@ridwaanhall">
-        <img height="150" src="https://github-readme-stats.vercel.app/api/wakatime?username=ridwaanhall&layout=compact&langs_count=6" />
+        <img height="150" src="https://github-readme-stats.vercel.app/api/wakatime?username=ridwaanhall&layout=compact&langs_count=6" alt="Wakatime Stats" />
     </a>
 </span>
 
 <span>
     <a href="https://github.com/ridwaanhall?tab=repositories&q=&type=&language=&sort=stargazers">
-        <img height="150" src="https://github-readme-stats.vercel.app/api?username=ridwaanhall&show_icons=true&count_private=true&hide=contribs" />
+        <img height="150" src="https://github-readme-stats.vercel.app/api?username=ridwaanhall&show_icons=true&count_private=true&hide=contribs" alt="GitHub Stats" />
     </a>
 </span>
 
 <span>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ridwaanhall" height="150" alt="Stat Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ridwaanhall" height="150" alt="GitHub Streak" />
 </span>
+
+</div>
+
+---
+
+### 📬 Let's Connect
+
+Feel free to reach out for discussions, collaborations, or just to say hi!
+
+[![Linkedin Badge](https://img.shields.io/badge/-Ridwan%20Halim-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ridwaanhall/)
+[![Instagram Badge](https://img.shields.io/badge/-@ridwaanhall-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/ridwaanhall)
+[![Twitter Badge](https://img.shields.io/badge/-@ridwaanhall-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/ridwaanhall)
+[![Gmail Badge](https://img.shields.io/badge/-ridwaanhall.dev@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ridwaanhall.dev@gmail.com)
