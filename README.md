@@ -21,7 +21,7 @@
   - **Web Development Main Team Intern** at GAOTek Inc.: Gained experience in Google Analytics and Tag Manager.
 
 - 💻 **Tech Focus**:
-  - **AI & Machine Learning**: TensorFlow, PyTorch, NLP, Reinforcement Learning.
+  - **AI & Machine Learning**: TensorFlow, Keras, PyTorch.
   - **Web Development**: Flask, Django, React.js, WordPress.
 
 - 🎯 **Interests**: Artificial Intelligence, Machine Learning, Web Development.
