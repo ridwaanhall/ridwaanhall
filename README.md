@@ -11,22 +11,28 @@
 
 ### 🚀 About Me
 
-- 🏫 **Currently**: Studying **Informatics (Semester 7)** at [University of Technology Yogyakarta](https://uty.ac.id/).
-- 💼 **Experience**:
-  - **Founder** at Ridwaanhall Projects: Led projects in web development and machine learning, completing 30+ projects.
-  - **Machine Learning Intern for Cyber Security** at iNeuron.ai: Worked on phishing domain detection.
-  - **Web Development Intern** at GAOTek Inc.: Developed WordPress sites and led team communication.
-  - **Chief Secretary** at IKA-PPIM 2021: Managed alumni data and produced actionable insights.
-  - **Machine Learning Intern** at YoungDev: Built classification models with perfect accuracy.
-  - **Web Development Main Team Intern** at GAOTek Inc.: Gained experience in Google Analytics and Tag Manager.
+I am **Ridwan Halim**, a passionate Python Developer specializing in **Artificial Intelligence**, **Machine Learning**, and **Web Development**. Currently, I am pursuing a degree in **Informatics (Semester 7)** at [University of Technology Yogyakarta](https://uty.ac.id/).
 
-- 💻 **Tech Focus**:
-  - **AI & Machine Learning**: TensorFlow, Keras, PyTorch.
-  - **Web Development**: Flask, Django, React.js, WordPress.
+- 📍 **Based in**: Yogyakarta, Indonesia.  
+- 🏫 **Education**: Informatics with a focus on Artificial Intelligence.  
+- 🎓 **Notable Achievement**: Memorized the Quran with distinguished certification, reflecting my dedication and discipline across diverse fields.  
 
-- 🎯 **Interests**: Artificial Intelligence, Machine Learning, Web Development.
-- 🔍 **Seeking**: Collaboration in AI, web development, and Python-related fields.
-- 🌐 **Portfolio**: [ridwaanhall.pythonanywhere.com](http://ridwaanhall.pythonanywhere.com/).
+### 💼 Professional Experience
+
+- **Founder, Ridwaanhall Projects**  
+  Led over 30 projects, integrating web development and machine learning to create innovative solutions.  
+- **Machine Learning Intern, iNeuron.ai**  
+  Focused on phishing domain detection to enhance cyber security.  
+- **Web Development Intern, GAOTek Inc.**  
+  Built and optimized WordPress sites, driving team collaboration and communication.  
+- **Chief Secretary, IKA-PPIM 2021**  
+  Managed alumni data, producing actionable insights for organizational growth.  
+- **Machine Learning Intern, YoungDev**  
+  Developed classification models achieving perfect accuracy.  
+
+### 🌟 Goals and Interests
+
+My aim is to leverage **AI**, **ML**, and **web development** to create impactful solutions that enhance user experiences and optimize processes. I am actively exploring opportunities in **research**, **collaborations**, and innovative projects.
 
 ---
 
@@ -44,11 +50,11 @@
 
 ### 📜 Certifications
 
-- Artificial Intelligence Foundations: Neural Networks by LinkedIn
-- Exploring AIOps by LinkedIn
-- Career Essentials in Generative AI by Microsoft and LinkedIn
-- Introduction to Artificial Intelligence by LinkedIn
-- Artificial Intelligence Foundations: Machine Learning
+- Artificial Intelligence Foundations: Neural Networks by LinkedIn  
+- Exploring AIOps by LinkedIn  
+- Career Essentials in Generative AI by Microsoft and LinkedIn  
+- Introduction to Artificial Intelligence by LinkedIn  
+- Artificial Intelligence Foundations: Machine Learning  
 
 ---
 
@@ -88,3 +94,9 @@ Feel free to reach out for discussions, collaborations, or just to say hi!
 [![Instagram Badge](https://img.shields.io/badge/-@ridwaanhall-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/ridwaanhall)
 [![Twitter Badge](https://img.shields.io/badge/-@ridwaanhall-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/ridwaanhall)
 [![Gmail Badge](https://img.shields.io/badge/-ridwaanhall.dev@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ridwaanhall.dev@gmail.com)
+
+---
+
+### 🌐 Portfolio
+
+Visit my portfolio at [ridwaanhall.pythonanywhere.com](http://ridwaanhall.pythonanywhere.com/).
