@@ -32,7 +32,7 @@ I am **Ridwan Halim**, a passionate Python Developer specializing in **Artificia
 
 ### 🌟 Goals and Interests
 
-My aim is to leverage **AI**, **ML**, and **web development** to create impactful solutions that enhance user experiences and optimize processes. I am actively exploring opportunities in **research**, **collaborations**, and innovative projects.
+My aim is to leverage AI, ML, and web development to create impactful solutions that enhance user experiences and optimize processes. I am actively exploring opportunities in research, collaborations, and innovative projects. Additionally, my goal is to maintain the memorization of the Quran (30 Juz) to ensure it is always remembered and memorized.
 
 ---
 
