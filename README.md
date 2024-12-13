@@ -19,7 +19,7 @@ I am **Ridwan Halim**, a passionate Python Developer specializing in **Artificia
 
 ### 💼 Professional Experience
 
-- **Founder, Ridwaanhall Projects**  
+- **Founder, [Copilot ID](https://github.com/copilot-id)**  
   Led over 30 projects, integrating web development and machine learning to create innovative solutions.  
 - **Machine Learning Intern, iNeuron.ai**  
   Focused on phishing domain detection to enhance cyber security.  
