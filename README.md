@@ -7,6 +7,9 @@
 [![](https://komarev.com/ghpvc/?username=ridwaanhall&color=blue&label=Profile%20Views)](https://github.com/ridwaanhall)
 [![](https://img.shields.io/github/followers/ridwaanhall?label=GitHub%20Followers)](https://github.com/ridwaanhall)
 
+.. image:: https://wakatime.com/share/@ridwaanhall/814541a6-1677-46dc-ba38-6bbec125c7b1.png
+    :target: https://wakatime.com/
+
 ---
 
 ### 🚀 About Me
