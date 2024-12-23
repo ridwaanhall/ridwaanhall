@@ -101,4 +101,4 @@ Feel free to reach out for discussions, collaborations, or just to say hi!
 
 ### 🌐 Portfolio
 
-Visit my portfolio at [ridwaanhall.pythonanywhere.com](http://ridwaanhall.pythonanywhere.com/).
+Visit my portfolio at [ridwaanhall.me](https://ridwaanhall.me/).
