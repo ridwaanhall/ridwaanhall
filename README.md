@@ -92,6 +92,7 @@ My aim is to leverage AI, ML, and web development to create impactful solutions 
 
 Feel free to reach out for discussions, collaborations, or just to say hi!
 
+
 [![Linkedin Badge](https://img.shields.io/badge/-Ridwan%20Halim-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ridwaanhall/)
 [![Instagram Badge](https://img.shields.io/badge/-@ridwaanhall-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/ridwaanhall)
 [![Twitter Badge](https://img.shields.io/badge/-@ridwaanhall-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/ridwaanhall)
