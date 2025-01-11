@@ -50,16 +50,6 @@ My aim is to leverage AI, ML, and web development to create impactful solutions 
 
 ---
 
-### 📜 Certifications
-
-- Artificial Intelligence Foundations: Neural Networks by LinkedIn  
-- Exploring AIOps by LinkedIn  
-- Career Essentials in Generative AI by Microsoft and LinkedIn  
-- Introduction to Artificial Intelligence by LinkedIn  
-- Artificial Intelligence Foundations: Machine Learning  
-
----
-
 ### 📊 GitHub Stats
 
 <div align="center">
