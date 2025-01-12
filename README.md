@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://tva1.sinaimg.cn/large/e6c9d24egy1h1571l0uucg205k05egri.gif" width="32" />&nbsp;
-  Hi, I'm Ridwan Halim!
+  Assalamu'alaikum, I'm Ridwan Halim!
 </h1>
 
 [![wakatime](https://wakatime.com/badge/user/018b799e-de53-4f7a-bb65-edc2df9f26d8.svg)](https://wakatime.com/@018b799e-de53-4f7a-bb65-edc2df9f26d8)
