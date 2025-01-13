@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://tva1.sinaimg.cn/large/e6c9d24egy1h1571l0uucg205k05egri.gif" width="32" />&nbsp;
-  Assalamu'alaikum, I'm Ridwan Halim!
+  Assalamu'alaikum, I'm Ridwan Halim
 </h1>
 
 [![wakatime](https://wakatime.com/badge/user/018b799e-de53-4f7a-bb65-edc2df9f26d8.svg)](https://wakatime.com/@018b799e-de53-4f7a-bb65-edc2df9f26d8)
@@ -18,19 +18,6 @@ I am **Ridwan Halim**, a passionate Python Developer specializing in **Artificia
 - 📍 **Based in**: Yogyakarta, Indonesia.  
 - 🏫 **Education**: Informatics with a focus on Artificial Intelligence.  
 - 🎓 **Notable Achievement**: Memorized the Quran with distinguished certification, reflecting my dedication and discipline across diverse fields.  
-
-### 💼 Professional Experience
-
-- **Founder, [Copilot ID](https://github.com/copilot-id)**  
-  Led over 30 projects, integrating web development and machine learning to create innovative solutions.  
-- **Machine Learning Intern, iNeuron.ai**  
-  Focused on phishing domain detection to enhance cyber security.  
-- **Web Development Intern, GAOTek Inc.**  
-  Built and optimized WordPress sites, driving team collaboration and communication.  
-- **Chief Secretary, IKA-PPIM 2021**  
-  Managed alumni data, producing actionable insights for organizational growth.  
-- **Machine Learning Intern, YoungDev**  
-  Developed classification models achieving perfect accuracy.  
 
 ### 🌟 Goals and Interests
 
