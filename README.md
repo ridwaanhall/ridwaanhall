@@ -3,6 +3,10 @@
   Assalamu'alaikum, I'm Ridwan Halim
 </h1>
 
+### 🌐 Portfolio
+
+Visit my portfolio at [ridwaanhall.me](https://ngoding.me/).
+
 [![wakatime](https://wakatime.com/badge/user/018b799e-de53-4f7a-bb65-edc2df9f26d8.svg)](https://wakatime.com/@018b799e-de53-4f7a-bb65-edc2df9f26d8)
 [![](https://komarev.com/ghpvc/?username=ridwaanhall&color=blue&label=Profile%20Views)](https://github.com/ridwaanhall)
 [![](https://img.shields.io/github/followers/ridwaanhall?label=GitHub%20Followers)](https://github.com/ridwaanhall)
@@ -74,9 +78,3 @@ Feel free to reach out for discussions, collaborations, or just to say hi!
 [![Instagram Badge](https://img.shields.io/badge/-@ridwaanhall-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/ridwaanhall)
 [![Twitter Badge](https://img.shields.io/badge/-@ridwaanhall-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/ridwaanhall)
 [![Gmail Badge](https://img.shields.io/badge/-ridwaanhall.dev@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ridwaanhall.dev@gmail.com)
-
----
-
-### 🌐 Portfolio
-
-Visit my portfolio at [ridwaanhall.me](https://ridwaanhall.me/).
