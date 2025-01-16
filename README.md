@@ -5,7 +5,7 @@
 
 ### 🌐 Portfolio
 
-Visit my portfolio at [ridwaanhall.me](https://ngoding.me/).
+Visit my portfolio at [ngoding.me](https://ngoding.me/).
 
 [![wakatime](https://wakatime.com/badge/user/018b799e-de53-4f7a-bb65-edc2df9f26d8.svg)](https://wakatime.com/@018b799e-de53-4f7a-bb65-edc2df9f26d8)
 [![](https://komarev.com/ghpvc/?username=ridwaanhall&color=blue&label=Profile%20Views)](https://github.com/ridwaanhall)
