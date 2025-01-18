@@ -13,13 +13,13 @@
 
 - 🏢 I'm currently working on a Dicoding course in MLOps and on my personal projects.
 - ⚛️ I'm currently diving into PyTorch, TensorFlow, and Django.
+- ⏲️ My total time coded since Oct 29 2023 [![wakatime](https://wakatime.com/badge/user/018b799e-de53-4f7a-bb65-edc2df9f26d8.svg)](https://wakatime.com/@018b799e-de53-4f7a-bb65-edc2df9f26d8)
 - ♻️ I'm on the lookout for collaboration opportunities in open source projects.
 - 💬 Feel free to ask me anything.
 - 😄 Pronouns: he/him
 
 ### 📬 Let's get in touch! Feel free to DM me for discussion or just say hi!
 
-[![wakatime](https://wakatime.com/badge/user/018b799e-de53-4f7a-bb65-edc2df9f26d8.svg)](https://wakatime.com/@018b799e-de53-4f7a-bb65-edc2df9f26d8)
 [![profile views](https://komarev.com/ghpvc/?username=ridwaanhall&color=blue&label=Profile%20Views)](https://github.com/ridwaanhall)
 [![Linkedin Badge](https://img.shields.io/badge/-Ridwan%20Halim-0e76a8?style=flat&labelColor=0e76a8&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ridwaanhall/)
 [![Instagram Badge](https://img.shields.io/badge/-@ridwaanhall-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/ridwaanhall)
