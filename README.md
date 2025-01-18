@@ -62,6 +62,12 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ridwaanhall" height="150" alt="GitHub Streak" />
 </span>
 
+</div>
+
+### 📊 Wakatime Stats
+
+<div align="center">
+
 <span>
     <a href="https://wakatime.com/@ridwaanhall"><img src="https://wakatime.com/share/@ridwaanhall/814541a6-1677-46dc-ba38-6bbec125c7b1.png" /></a>
 </span>
