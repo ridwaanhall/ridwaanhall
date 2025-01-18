@@ -1,14 +1,14 @@
 <h1 align="center">
-  <img src="https://tva1.sinaimg.cn/large/e6c9d24egy1h1571l0uucg205k05egri.gif" width="32" />&nbsp;
-  Assalamu'alaikum, I'm Ridwan Halim
+    <img src="https://tva1.sinaimg.cn/large/e6c9d24egy1h1571l0uucg205k05egri.gif" width="32" />&nbsp;
+    Assalamu'alaikum, I'm Ridwan Halim
 </h1>
 
 <p align="left">
-  <samp>
-    <a href="https://ngoding.me" target='_blank'>landing page</a> .
+    <samp>
+        <a href="https://ngoding.me" target='_blank'>landing page</a> .
         <a href="https://ridwaanhall.me" target='_blank'>website & portfolio</a> .
-    <a href="https://ridwaanhall.me/blog" target='_blank'>blog</a> 
-  </samp>
+        <a href="https://ridwaanhall.me/blog" target='_blank'>blog</a> 
+    </samp>
 </p>
 
 - 🏢 I'm currently working on a Dicoding course in MLOps and on my personal projects.
@@ -67,9 +67,3 @@
 </span>
 
 </div>
-
----
-
-### 📬 Let's Connect
-
-Feel free to reach out for discussions, collaborations, or just to say hi!
