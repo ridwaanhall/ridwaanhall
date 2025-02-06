@@ -11,7 +11,7 @@
     </samp>
 </p>
 
-- 🏢 I'm currently working on a Dicoding course in MLOps and on my personal projects.
+- 🏢 I'm currently working as a Machine Learning Mentor for the Coding Camp 2025 powered by DBS Foundation and on my personal projects.
 - ⚛️ I'm currently diving into PyTorch, TensorFlow, and Django.
 - ⏲️ My total time coded since Oct 29 2023 [![wakatime](https://wakatime.com/badge/user/018b799e-de53-4f7a-bb65-edc2df9f26d8.svg)](https://wakatime.com/@018b799e-de53-4f7a-bb65-edc2df9f26d8)
 - ♻️ I'm on the lookout for collaboration opportunities in open source projects.
