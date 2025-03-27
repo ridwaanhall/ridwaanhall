@@ -11,6 +11,16 @@
     </samp>
 </p>
 
+### 🌟 Your Support Means the World!
+
+Are you interested in the project I created and want to help keep it running? You can support me by becoming a sponsor! Your contributions will greatly assist in the development and maintenance of this project.
+
+[![Sponsor Me](https://img.shields.io/badge/-Sponsor%20Me-blue?style=for-the-badge)](https://github.com/sponsors/ridwaanhall/)
+
+Thank you for supporting my work! Together, we can create something amazing. 🚀
+
+### 😄 About Me
+
 - 🏢 I'm currently working as a Machine Learning Mentor for the Coding Camp 2025 powered by DBS Foundation and on my personal projects.
 - ⚛️ I'm currently diving into PyTorch, TensorFlow, and Django.
 - ⏲️ My total time coded since Oct 29 2023 [![wakatime](https://wakatime.com/badge/user/018b799e-de53-4f7a-bb65-edc2df9f26d8.svg)](https://wakatime.com/@018b799e-de53-4f7a-bb65-edc2df9f26d8)
