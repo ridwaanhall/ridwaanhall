@@ -27,7 +27,7 @@ Thank you for supporting my work! Together, we can create something amazing. �
 - ♻️ I'm on the lookout for collaboration opportunities in open source projects.
 - 💬 Feel free to ask me anything.
 - 😄 Pronouns: he/him
-- 💖[Hafidhah Afkariana (afidaafkaa)](https://github.com/afidaafkaa)
+- 💖 Hafidhah Afkariana [(afidaafkaa)](https://github.com/afidaafkaa)
 
 ## 📬 Let's get in touch! Feel free to DM me for discussion or just say hi!
 
