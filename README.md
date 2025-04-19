@@ -6,8 +6,8 @@
 <p align="center">
     <samp>
         <a href="https://ngoding.me" target='_blank'>landing page</a> .
-        <a href="https://ridwaanhall.me" target='_blank'>website & portfolio</a> .
-        <a href="https://ridwaanhall.me/blog/" target='_blank'>blog</a> 
+        <a href="https://ridwaanhall.com" target='_blank'>website & portfolio</a> .
+        <a href="https://ridwaanhall.com/blog/" target='_blank'>blog</a> 
     </samp>
 </p>
 
