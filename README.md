@@ -48,8 +48,8 @@ Thank you for supporting my work! Together, we can create something amazing. ðŸš
 | **Databases**           | ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql) ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite) ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql) |
 | **Version Control**     | ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git) ![Git](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github) |
 | **APIs**                | ![Django REST Framework](https://img.shields.io/badge/-DRF-05122A?style=flat&logo=django) ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman) ![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=graphql) |
-| **PaaS**                | ![Vercel](https://img.shields.io/badge/-Vercel-05122A?style=flat&logo=vercel) ![Netlify](https://img.shields.io/badge/-Netlify-05122A?style=flat&logo=netlify) |
-| **Web Server**          | ![Nginx](https://img.shields.io/badge/-Nginx-05122A?style=flat&logo=nginx) |
+| **PaaS**                | ![Vercel](https://img.shields.io/badge/-Vercel-05122A?style=flat&logo=vercel) ![Netlify](https://img.shields.io/badge/-Netlify-05122A?style=flat&logo=netlify) ![Cloudflare Pages](https://img.shields.io/badge/-Cloudflare%20Pages-05122A?style=flat&logo=cloudflare) |
+| **Serverless Platforms**| ![Cloudflare Workers](https://img.shields.io/badge/-Cloudflare%20Workers-05122A?style=flat&logo=cloudflare) || **Web Server**          | ![Nginx](https://img.shields.io/badge/-Nginx-05122A?style=flat&logo=nginx) |
 | **Code Editor**        | ![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code) ![JetBrains](https://img.shields.io/badge/-JetBrains-05122A?style=flat&logo=jetbrains) |
 
 ## ðŸ“Š GitHub and Wakatime Stats
