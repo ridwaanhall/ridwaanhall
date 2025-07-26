@@ -1,75 +1,176 @@
-<h1 align="center">
-    <img src="https://tva1.sinaimg.cn/large/e6c9d24egy1h1571l0uucg205k05egri.gif" width="32" />&nbsp;
+<p align="center">
+    <img src="https://tva1.sinaimg.cn/large/e6c9d24egy1h1571l0uucg205k05egri.gif" width="40" alt="Wave" />
+</p>
+
+<h1 align="center" style="font-weight: bold; font-size: 2.5rem;">
     Assalamu'alaikum, I'm Ridwan Halim
 </h1>
 
 <p align="center">
     <samp>
-        <a href="https://bio.ridwaanhall.com" target='_blank'>landing page</a> .
-        <a href="https://ridwaanhall.com" target='_blank'>website & portfolio</a> .
-        <a href="https://ridwaanhall.com/blog/" target='_blank'>blog</a>
+        <a href="https://bio.ridwaanhall.com" target="_blank">Landing Page</a> &nbsp;|&nbsp;
+        <a href="https://ridwaanhall.com" target="_blank">Website & Portfolio</a> &nbsp;|&nbsp;
+        <a href="https://ridwaanhall.com/blog/" target="_blank">Blog</a>
     </samp>
+</p>
+
+<br/>
+
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=ridwaanhall&color=blue&label=Profile%20Views" alt="Profile Views"/>
+    <a href="https://www.linkedin.com/in/ridwaanhall/"><img src="https://img.shields.io/badge/LinkedIn-in/ridwaanhall-blue?logo=linkedin" alt="LinkedIn"></a>
+    <a href="https://instagram.com/ridwaanhall"><img src="https://img.shields.io/badge/-@ridwaanhall-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white" alt="Instagram"></a>
+    <a href="https://twitter.com/ridwaanhall"><img src="https://img.shields.io/badge/-@ridwaanhall-1ca0f1?style=flat&labelColor=1ca0f1&logo=x&logoColor=white" alt="Twitter"></a>
+    <a href="mailto:hi@ridwaanhall.com"><img src="https://img.shields.io/badge/-hi@ridwaanhall.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white" alt="Gmail"></a>
+    <a href="https://github.com/ridwaanhall"><img src="https://img.shields.io/github/followers/ridwaanhall?label=GitHub%20Followers" alt="GitHub Followers"></a>
 </p>
 
 ---
 
-## 🌟 Your Support Means the World!
-
-Are you interested in the project I created and want to help keep it running? You can support me by becoming a sponsor! Your contributions will greatly assist in the development and maintenance of this project.
-
-[![Sponsor Me](https://img.shields.io/badge/-Sponsor%20Me-blue?style=for-the-badge)](https://github.com/sponsors/ridwaanhall/)
-
-Thank you for supporting my work! Together, we can create something amazing. 🚀
-
-## 😄 About Me
-
-- 🏢 I'm currently working as a Machine Learning Mentor for the Coding Camp 2025 powered by DBS Foundation and on my personal projects.
-- ⚛️ I'm currently diving into PyTorch, TensorFlow, and Django.
-- ⏲️ My total time coded since Oct 29 2023 [![wakatime](https://wakatime.com/badge/user/018b799e-de53-4f7a-bb65-edc2df9f26d8.svg)](https://wakatime.com/@018b799e-de53-4f7a-bb65-edc2df9f26d8)
-- ♻️ I'm on the lookout for collaboration opportunities in open source projects.
-- 💬 Feel free to ask me anything.
-- 😄 Pronouns: he/him
-
-## 📬 Let's get in touch! Feel free to DM me for discussion or just say hi!
-
-[![profile views](https://komarev.com/ghpvc/?username=ridwaanhall&color=blue&label=Profile%20Views)](https://github.com/ridwaanhall)
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-in/ridwaanhall-blue)](https://www.linkedin.com/in/ridwaanhall/)
-[![Instagram Badge](https://img.shields.io/badge/-@ridwaanhall-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/ridwaanhall)
-[![Twitter Badge](https://img.shields.io/badge/-@ridwaanhall-1ca0f1?style=flat&labelColor=1ca0f1&logo=x&logoColor=white)](https://twitter.com/ridwaanhall)
-[![Gmail Badge](https://img.shields.io/badge/-hi@ridwaanhall.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:hi@ridwaanhall.com)
-[![ridwaanhall followers count](https://img.shields.io/github/followers/ridwaanhall?label=GitHub%20Followers)](https://github.com/ridwaanhall)
-
-## 🛠 Tools I've Used
-
-| Category                | Technologies                                                                 |
-|-------------------------|------------------------------------------------------------------------------|
-| **Programming Languages** | ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php) ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript) |
-| **Web Development**     | ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django) ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask) ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react) ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js) ![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat&logo=tailwind-css) ![Bulma](https://img.shields.io/badge/-Bulma-05122A?style=flat&logo=bulma) ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js) ![WordPress](https://img.shields.io/badge/-WordPress-05122A?style=flat&logo=wordpress) ![Material-UI](https://img.shields.io/badge/-Material--UI-05122A?style=flat&logo=material-ui) ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript) ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel) |
-| **Machine Learning & AI** | ![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=tensorflow) ![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=pytorch) ![Keras](https://img.shields.io/badge/-Keras-05122A?style=flat&logo=keras) ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-05122A?style=flat&logo=scikit-learn) |
-| **Databases**           | ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql) ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite) ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql) |
-| **Version Control**     | ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git) ![Git](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github) |
-| **APIs**                | ![Django REST Framework](https://img.shields.io/badge/-DRF-05122A?style=flat&logo=django) ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman) ![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=graphql) |
-| **PaaS**                | ![Vercel](https://img.shields.io/badge/-Vercel-05122A?style=flat&logo=vercel) ![Netlify](https://img.shields.io/badge/-Netlify-05122A?style=flat&logo=netlify) ![Cloudflare Pages](https://img.shields.io/badge/-Cloudflare%20Pages-05122A?style=flat&logo=cloudflare) |
-| **Serverless Platforms**| ![Cloudflare Workers](https://img.shields.io/badge/-Cloudflare%20Workers-05122A?style=flat&logo=cloudflare) || **Web Server**          | ![Nginx](https://img.shields.io/badge/-Nginx-05122A?style=flat&logo=nginx) |
-| **Code Editor**        | ![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code) ![JetBrains](https://img.shields.io/badge/-JetBrains-05122A?style=flat&logo=jetbrains) |
-
-<h2>GitHub's Stats</h2>
-<p align="center">
-    <img height="200px" src="https://github-readme-stats.vercel.app/api?username=ridwaanhall&show_icons=true&hide_border=true&theme=tokyonight&bg_color=00000000&count_private=true&hide=contribs"/>
-    <img height="100%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridwaanhall&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&langs_count=6&hide=javascript,css,php">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ridwaanhall&theme=tokyonight&hide_border=true&background=00000000"/>
-</p>
-
-<h2>Wakatime Stats</h2>
+## 🌟 Support My Work
 
 <p align="center">
-    <a href="https://wakatime.com/@ridwaanhall">
-        <img src="https://wakatime.com/share/@ridwaanhall/814541a6-1677-46dc-ba38-6bbec125c7b1.png" alt="Wakatime Chart"/>
+    <a href="https://github.com/sponsors/ridwaanhall/">
+        <img src="https://img.shields.io/badge/-Sponsor%20Me-blue?style=for-the-badge" alt="Sponsor Me"/>
     </a>
 </p>
 
+<p align="center">
+    Your sponsorship helps me maintain and improve my open source projects.<br/>
+    Thank you for your support! 🚀
+</p>
+
+---
+
+## 😄 About Me
+
+- 🏢 Machine Learning Mentor @ Coding Camp 2025 (DBS Foundation) & Indie Developer
+- ⏲️ Coding since Oct 29, 2023 [![wakatime](https://wakatime.com/badge/user/018b799e-de53-4f7a-bb65-edc2df9f26d8.svg)](https://wakatime.com/@018b799e-de53-4f7a-bb65-edc2df9f26d8)
+- ♻️ Open to remote work and collaborations in Machine Learning, AI, and Web Development
+- 💬 Ask me anything!
+- 😄 Pronouns: he/him
+
+---
+
+## 🛠️ Tech Stack
+
+<table align="center">
+    <tr>
+        <td><b>Languages</b></td>
+        <td>
+            <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" />
+            <img src="https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php" />
+            <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" />
+            <img src="https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript" />
+        </td>
+    </tr>
+    <tr>
+        <td><b>Web</b></td>
+        <td>
+            <img src="https://img.shields.io/badge/-Django-05122A?style=flat&logo=django" />
+            <img src="https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask" />
+            <img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react" />
+            <img src="https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js" />
+            <img src="https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5" />
+            <img src="https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3" />
+            <img src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap" />
+            <img src="https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat&logo=tailwind-css" />
+            <img src="https://img.shields.io/badge/-Bulma-05122A?style=flat&logo=bulma" />
+            <img src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js" />
+            <img src="https://img.shields.io/badge/-WordPress-05122A?style=flat&logo=wordpress" />
+            <img src="https://img.shields.io/badge/-Material--UI-05122A?style=flat&logo=material-ui" />
+            <img src="https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel" />
+        </td>
+    </tr>
+    <tr>
+        <td><b>ML & AI</b></td>
+        <td>
+            <img src="https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=tensorflow" />
+            <img src="https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=pytorch" />
+            <img src="https://img.shields.io/badge/-Keras-05122A?style=flat&logo=keras" />
+            <img src="https://img.shields.io/badge/-Scikit--learn-05122A?style=flat&logo=scikit-learn" />
+        </td>
+    </tr>
+    <tr>
+        <td><b>Databases</b></td>
+        <td>
+            <img src="https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql" />
+            <img src="https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite" />
+            <img src="https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb" />
+            <img src="https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql" />
+        </td>
+    </tr>
+    <tr>
+        <td><b>Version Control</b></td>
+        <td>
+            <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" />
+            <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github" />
+        </td>
+    </tr>
+    <tr>
+        <td><b>APIs</b></td>
+        <td>
+            <img src="https://img.shields.io/badge/-DRF-05122A?style=flat&logo=django" />
+            <img src="https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman" />
+            <img src="https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=graphql" />
+        </td>
+    </tr>
+    <tr>
+        <td><b>PaaS</b></td>
+        <td>
+            <img src="https://img.shields.io/badge/-Vercel-05122A?style=flat&logo=vercel" />
+            <img src="https://img.shields.io/badge/-Netlify-05122A?style=flat&logo=netlify" />
+            <img src="https://img.shields.io/badge/-Cloudflare%20Pages-05122A?style=flat&logo=cloudflare" />
+        </td>
+    </tr>
+    <tr>
+        <td><b>Serverless</b></td>
+        <td>
+            <img src="https://img.shields.io/badge/-Cloudflare%20Workers-05122A?style=flat&logo=cloudflare" />
+        </td>
+    </tr>
+    <tr>
+        <td><b>Web Server</b></td>
+        <td>
+            <img src="https://img.shields.io/badge/-Nginx-05122A?style=flat&logo=nginx" />
+        </td>
+    </tr>
+    <tr>
+        <td><b>Editor</b></td>
+        <td>
+            <img src="https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=visual-studio-code" />
+            <img src="https://img.shields.io/badge/-JetBrains-05122A?style=flat&logo=jetbrains" />
+        </td>
+    </tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+    <img height="200" src="https://github-readme-stats.vercel.app/api?username=ridwaanhall&show_icons=true&hide_border=true&theme=tokyonight&bg_color=00000000&count_private=true&hide=contribs" alt="GitHub Stats"/>
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridwaanhall&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&langs_count=6&hide=javascript,css,php" alt="Top Languages"/>
+    <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=ridwaanhall&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak"/>
+</p>
+
+---
+
+## ⏱️ Wakatime Stats
+
+<p align="center">
+    <a href="https://wakatime.com/@ridwaanhall">
+        <img src="https://wakatime.com/share/@ridwaanhall/814541a6-1677-46dc-ba38-6bbec125c7b1.png" alt="Wakatime Chart" width="60%"/>
+    </a>
+</p>
 <p align="center">
     <a href="https://wakatime.com/@ridwaanhall">
         <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ridwaanhall&layout=compact&hide_border=true&hide=other&theme=tokyonight&bg_color=00000000&langs_count=6" alt="Wakatime Stats"/>
     </a>
+</p>
+
+---
+
+<p align="center">
+    <b>Let's connect and build something amazing together!</b>
 </p>
