@@ -5,11 +5,13 @@
 
 <p align="center">
     <samp>
-        <a href="https://ngoding.me" target='_blank'>landing page</a> .
+        <a href="https://bio.ridwaanhall.com" target='_blank'>landing page</a> .
         <a href="https://ridwaanhall.com" target='_blank'>website & portfolio</a> .
-        <a href="https://ridwaanhall.com/blog/" target='_blank'>blog</a> 
+        <a href="https://ridwaanhall.com/blog/" target='_blank'>blog</a>
     </samp>
 </p>
+
+---
 
 ## 🌟 Your Support Means the World!
 
@@ -51,35 +53,23 @@ Thank you for supporting my work! Together, we can create something amazing. �
 | **Serverless Platforms**| ![Cloudflare Workers](https://img.shields.io/badge/-Cloudflare%20Workers-05122A?style=flat&logo=cloudflare) || **Web Server**          | ![Nginx](https://img.shields.io/badge/-Nginx-05122A?style=flat&logo=nginx) |
 | **Code Editor**        | ![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code) ![JetBrains](https://img.shields.io/badge/-JetBrains-05122A?style=flat&logo=jetbrains) |
 
-## 📊 GitHub and Wakatime Stats
+<h2 align="center">My GitHub's Stats</h2>
+<p align="center">
+    <img height="200px" src="https://github-readme-stats.vercel.app/api?username=ridwaanhall&show_icons=true&hide_border=true&theme=tokyonight&bg_color=00000000&count_private=true&hide=contribs"/>
+    <img height="100%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridwaanhall&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&langs_count=6&hide=javascript,css,php">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ridwaanhall&theme=tokyonight&hide_border=true&background=00000000"/>
+</p>
 
-<div align="center">
+<h2 align="center">Wakatime Stats</h2>
 
-<span>
-    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridwaanhall&layout=compact&hide=php&langs_count=6" alt="Top Languages" />
-</span>
-
-<span>
+<p align="center">
     <a href="https://wakatime.com/@ridwaanhall">
-        <img height="150" src="https://github-readme-stats.vercel.app/api/wakatime?username=ridwaanhall&layout=compact&langs_count=6" alt="Wakatime Stats" />
+        <img src="https://wakatime.com/share/@ridwaanhall/814541a6-1677-46dc-ba38-6bbec125c7b1.png" alt="Wakatime Chart"/>
     </a>
-</span>
+</p>
 
-<span>
-    <a href="https://github.com/ridwaanhall?tab=repositories&q=&type=&language=&sort=stargazers">
-        <img height="150" src="https://github-readme-stats.vercel.app/api?username=ridwaanhall&show_icons=true&count_private=true&hide=contribs" alt="GitHub Stats" />
+<p align="center">
+    <a href="https://wakatime.com/@ridwaanhall">
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ridwaanhall&layout=compact&hide_border=true&hide=other&theme=tokyonight&bg_color=00000000&langs_count=6" alt="Wakatime Stats"/>
     </a>
-</span>
-
-<span>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ridwaanhall" height="150" alt="GitHub Streak" />
-</span>
-
-Here's a snapshot of my coding by Wakatime
-
-<span>
-    <a href="https://wakatime.com/@ridwaanhall"><img src="https://wakatime.com/share/@ridwaanhall/814541a6-1677-46dc-ba38-6bbec125c7b1.png" />
-</a>
-</span>
-
-</div>
+</p>
