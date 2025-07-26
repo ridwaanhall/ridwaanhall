@@ -44,11 +44,16 @@
 
 ## 😄 About Me
 
-- 🏢 Machine Learning Mentor @ Coding Camp 2025 (DBS Foundation) & Indie Developer
-- ⏲️ Coding since Oct 29, 2023 [![wakatime](https://wakatime.com/badge/user/018b799e-de53-4f7a-bb65-edc2df9f26d8.svg)](https://wakatime.com/@018b799e-de53-4f7a-bb65-edc2df9f26d8)
-- ♻️ Open to remote work and collaborations in Machine Learning, AI, and Web Development
-- 💬 Ask me anything!
-- 😄 Pronouns: he/him
+- 🧑‍🏫 **Role:** Machine Learning Mentor @ Coding Camp 2025 (DBS Foundation) & Indie Developer
+- 💻 **Coding Since:** Oct 29, 2023 [![wakatime](https://wakatime.com/badge/user/018b799e-de53-4f7a-bb65-edc2df9f26d8.svg)](https://wakatime.com/@018b799e-de53-4f7a-bb65-edc2df9f26d8)
+- 🌏 **Location:** Indonesia (collaborating globally)
+- 🧑‍🤝‍🧑 **Pronouns:** he/him
+- 🌐 **Open To:** Remote, onsite, or hybrid work & collaborations in Machine Learning, AI, and Web Development
+- 🎯 **Interests:**
+    - 🛠️ Building open source tools and products for developers
+    - 📚 Lifelong learning & sharing knowledge
+    - 📖 Reading about technology, productivity, and personal growth
+- 🤝 **Let’s Connect:** Always happy to chat or answer questions!
 
 ---
 
