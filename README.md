@@ -33,7 +33,7 @@ Thank you for supporting my work! Together, we can create something amazing. ðŸš
 ## ðŸ“¬ Let's get in touch! Feel free to DM me for discussion or just say hi!
 
 [![profile views](https://komarev.com/ghpvc/?username=ridwaanhall&color=blue&label=Profile%20Views)](https://github.com/ridwaanhall)
-[![Linkedin Badge](https://img.shields.io/badge/-Ridwan%20Halim-0e76a8?style=flat&labelColor=0e76a8&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ridwaanhall/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-in/ridwaanhall-blue)](https://www.linkedin.com/in/ridwaanhall/)
 [![Instagram Badge](https://img.shields.io/badge/-@ridwaanhall-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/ridwaanhall)
 [![Twitter Badge](https://img.shields.io/badge/-@ridwaanhall-1ca0f1?style=flat&labelColor=1ca0f1&logo=x&logoColor=white)](https://twitter.com/ridwaanhall)
 [![Gmail Badge](https://img.shields.io/badge/-hi@ridwaanhall.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:hi@ridwaanhall.com)
@@ -53,14 +53,14 @@ Thank you for supporting my work! Together, we can create something amazing. ðŸš
 | **Serverless Platforms**| ![Cloudflare Workers](https://img.shields.io/badge/-Cloudflare%20Workers-05122A?style=flat&logo=cloudflare) || **Web Server**          | ![Nginx](https://img.shields.io/badge/-Nginx-05122A?style=flat&logo=nginx) |
 | **Code Editor**        | ![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code) ![JetBrains](https://img.shields.io/badge/-JetBrains-05122A?style=flat&logo=jetbrains) |
 
-<h2 align="center">My GitHub's Stats</h2>
+<h2>GitHub's Stats</h2>
 <p align="center">
     <img height="200px" src="https://github-readme-stats.vercel.app/api?username=ridwaanhall&show_icons=true&hide_border=true&theme=tokyonight&bg_color=00000000&count_private=true&hide=contribs"/>
     <img height="100%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridwaanhall&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&langs_count=6&hide=javascript,css,php">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ridwaanhall&theme=tokyonight&hide_border=true&background=00000000"/>
 </p>
 
-<h2 align="center">Wakatime Stats</h2>
+<h2>Wakatime Stats</h2>
 
 <p align="center">
     <a href="https://wakatime.com/@ridwaanhall">
