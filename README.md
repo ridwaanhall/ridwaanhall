@@ -2,8 +2,8 @@
     <img src="https://tva1.sinaimg.cn/large/e6c9d24egy1h1571l0uucg205k05egri.gif" width="40" alt="Wave" />
 </p>
 
-<h1 align="center" style="font-weight: bold; font-size: 2.5rem;">
-    Assalamu'alaikum, I'm Ridwan Halim
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=1CA0F1&center=true&vCenter=true&width=435&lines=Assalamu'alaikum,+I'm+Ridwan;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -44,7 +44,7 @@
 
 ## 😄 About Me
 
-- 🧑‍🏫 **Role:** Machine Learning Mentor @ Coding Camp 2025 (DBS Foundation) & Indie Developer
+- 🧑‍🏫 **Role:** Python Programmer & Indie Developer
 - 💻 **Coding Since:** Oct 29, 2023 [![wakatime](https://wakatime.com/badge/user/018b799e-de53-4f7a-bb65-edc2df9f26d8.svg)](https://wakatime.com/@018b799e-de53-4f7a-bb65-edc2df9f26d8)
 - 🌏 **Location:** Indonesia (collaborating globally)
 - 🧑‍🤝‍🧑 **Pronouns:** he/him
