@@ -8,8 +8,8 @@
 
 <p align="center">
     <samp>
+        <a href="https://ridwaanhall.com" target="_blank">Web Portfolio</a> &nbsp;|&nbsp;
         <a href="https://bio.ridwaanhall.com" target="_blank">Landing Page</a> &nbsp;|&nbsp;
-        <a href="https://ridwaanhall.com" target="_blank">Website & Portfolio</a> &nbsp;|&nbsp;
         <a href="https://ridwaanhall.com/blog/" target="_blank">Blog</a>
     </samp>
 </p>
