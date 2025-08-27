@@ -6,6 +6,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=1CA0F1&center=true&vCenter=true&width=435&lines=Assalamu'alaikum,+I'm+Ridwan;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
 </h1>
 
+---
+
 <p align="center">
     <samp>
         <a href="https://ridwaanhall.com" target="_blank">Web Portfolio</a> &nbsp;|&nbsp;
