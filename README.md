@@ -25,8 +25,6 @@
     <a href="https://github.com/ridwaanhall"><img src="https://img.shields.io/github/followers/ridwaanhall?label=GitHub%20Followers" alt="GitHub Followers"></a>
 </p>
 
----
-
 ## 🌟 Support My Work
 
 <p align="center">
@@ -39,8 +37,6 @@
     Your sponsorship helps me maintain and improve my open source projects.<br/>
     Thank you for your support! 🚀
 </p>
-
----
 
 ## 😄 About Me
 
