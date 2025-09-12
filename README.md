@@ -54,6 +54,7 @@
 ---
 
 ## 🛠️ Tech Stack
+
 <table align="center">
     <tr>
         <td><b>Languages</b></td>
