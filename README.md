@@ -44,7 +44,7 @@
 - 💻 **Coding Since:** Oct 29, 2023 [![wakatime](https://wakatime.com/badge/user/018b799e-de53-4f7a-bb65-edc2df9f26d8.svg)](https://wakatime.com/@018b799e-de53-4f7a-bb65-edc2df9f26d8)
 - 🌏 **Location:** Indonesia (collaborating globally)
 - 🧑‍🤝‍🧑 **Pronouns:** he/him
-- 🌐 **Open To:** Remote, onsite, or hybrid work & collaborations in Machine Learning, AI, and Web Development
+- 🌐 **Open To:** Remote, onsite, or hybrid work & collaborations in Machine Learning AI (PyTorch,TensorFlow), Web Development (Django, Flask), and related with Python.
 - 🎯 **Interests:**
     - 🛠️ Building open source tools and products for developers
     - 📚 Lifelong learning & sharing knowledge
@@ -54,7 +54,6 @@
 ---
 
 ## 🛠️ Tech Stack
-
 <table align="center">
     <tr>
         <td><b>Languages</b></td>
