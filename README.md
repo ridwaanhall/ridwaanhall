@@ -84,12 +84,25 @@
         </td>
     </tr>
     <tr>
+        <td><b>Automation</b></td>
+        <td>
+            <img src="https://img.shields.io/badge/-n8n-05122A?style=flat&logo=n8n" />
+        </td>
+    </tr>
+    <tr>
         <td><b>ML & AI</b></td>
         <td>
             <img src="https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=tensorflow" />
             <img src="https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=pytorch" />
             <img src="https://img.shields.io/badge/-Keras-05122A?style=flat&logo=keras" />
             <img src="https://img.shields.io/badge/-Scikit--learn-05122A?style=flat&logo=scikit-learn" />
+        </td>
+    </tr>
+    <tr>
+        <td><b>AI Model</b></td>
+        <td>
+            <img src="https://img.shields.io/badge/-ChatGPT-05122A?style=flat&logo=openai" />
+            <img src="https://img.shields.io/badge/-Gemini-05122A?style=flat&logo=google" />
         </td>
     </tr>
     <tr>
@@ -102,7 +115,7 @@
         </td>
     </tr>
     <tr>
-        <td><b>Version Control</b></td>
+        <td><b>VCS</b></td>
         <td>
             <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" />
             <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github" />
@@ -112,6 +125,7 @@
         <td><b>APIs</b></td>
         <td>
             <img src="https://img.shields.io/badge/-DRF-05122A?style=flat&logo=django" />
+            <img src="https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi" />
             <img src="https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman" />
             <img src="https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=graphql" />
         </td>
