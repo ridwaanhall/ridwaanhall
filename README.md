@@ -38,6 +38,21 @@
     Thank you for your support! 🚀
 </p>
 
+## 🙌 Supporter Circle
+
+This section is dedicated to those who support my work monthly through [GitHub Sponsors](https://github.com/sponsors/ridwaanhall), [Buy Me a Coffee](https://buymeacoffee.com/ridwaanhall), [Saweria](https://saweria.co/ridwaanhall), or [Sociabuzz](https://sociabuzz.com/ridwaanhall/support). No perks, no extras—just pure support and my deepest thanks.
+
+Perfect for those unsure where to throw their money—I'm happy to catch it here.  
+Your name will be listed below as a token of appreciation.
+
+### 🧡 Current
+
+- Tony Celestino 💫
+
+### 💙 Previous
+
+*Thank you to all who have supported me in the past!*
+
 ## 😄 About Me
 
 - 🧑‍🏫 **Role:** Python Programmer & Indie Developer
