@@ -31,19 +31,30 @@
     <a href="https://github.com/sponsors/ridwaanhall/">
         <img src="https://img.shields.io/badge/-Sponsor%20Me-blue?style=for-the-badge" alt="Sponsor Me"/>
     </a>
+    <a href="https://buymeacoffee.com/ridwaanhall">
+        <img src="https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-yellow?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Buy Me a Coffee"/>
+    </a>
+    <a href="https://saweria.co/ridwaanhall">
+        <img src="https://img.shields.io/badge/-Saweria-orange?style=for-the-badge" alt="Saweria"/>
+    </a>
+    <a href="https://sociabuzz.com/ridwaanhall/support">
+        <img src="https://img.shields.io/badge/-Sociabuzz-red?style=for-the-badge" alt="Sociabuzz"/>
+    </a>
 </p>
 
 <p align="center">
-    Your sponsorship helps me maintain and improve my open source projects.<br/>
+    Your sponsorship helps me stay independent, maintain my open source projects, and keep building tools for the community.<br/>
     Thank you for your support! 🚀
 </p>
 
 ## 🙌 Supporter Circle
 
-This section is dedicated to those who support my work monthly through [GitHub Sponsors](https://github.com/sponsors/ridwaanhall), [Buy Me a Coffee](https://buymeacoffee.com/ridwaanhall), [Saweria](https://saweria.co/ridwaanhall), or [Sociabuzz](https://sociabuzz.com/ridwaanhall/support). No perks, no extras—just pure support and my deepest thanks.
+This section is dedicated to those who support my work monthly/one time through
+[GitHub Sponsors](https://github.com/sponsors/ridwaanhall), [Buy Me a Coffee](https://buymeacoffee.com/ridwaanhall), [Saweria](https://saweria.co/ridwaanhall), or [Sociabuzz](https://sociabuzz.com/ridwaanhall/support).
 
-Perfect for those unsure where to throw their money—I'm happy to catch it here.  
-Your name will be listed below as a token of appreciation.
+No perks, no extras—just pure support and my deepest thanks.
+Perfect for those unsure where to throw their money—I'm happy to catch it here.
+Your name will be listed below as a token of appreciation and as part of the community that helps me keep things running.
 
 ### 🧡 Current
 
