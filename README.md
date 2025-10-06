@@ -92,7 +92,7 @@ This section is dedicated to those who support my work monthly/one time through
 
 ## 🛠️ Tech Stack
 
-**For the most up-to-date information, visit [ridwaanhall.com](https://bio.ridwaanhall.com)*
+**For the most up-to-date information, visit [ridwaanhall.com](https://ridwaanhall.com)*
 
 <table align="center">
     <tr>
