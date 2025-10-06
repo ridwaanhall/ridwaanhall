@@ -81,6 +81,8 @@ Your name will be listed below as a token of appreciation and as part of the com
 
 ## 🛠️ Tech Stack
 
+**For the most up-to-date information, visit [ridwaanhall.com](https://bio.ridwaanhall.com)*
+
 <table align="center">
     <tr>
         <td><b>Languages</b></td>
