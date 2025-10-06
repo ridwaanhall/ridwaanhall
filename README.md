@@ -87,8 +87,6 @@ This section is dedicated to those who support my work monthly/one time through
     - 📖 Reading about technology, productivity, and personal growth
 - 🤝 **Let’s Connect:** Always happy to chat or answer questions!
 
----
-
 ## 🛠️ Tech Stack
 
 **For the most up-to-date information, visit [ridwaanhall.com](https://bio.ridwaanhall.com)*
@@ -197,8 +195,6 @@ This section is dedicated to those who support my work monthly/one time through
     </tr>
 </table>
 
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -206,8 +202,6 @@ This section is dedicated to those who support my work monthly/one time through
     <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridwaanhall&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&langs_count=6&hide=javascript,css,php" alt="Top Languages"/>
     <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=ridwaanhall&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak"/>
 </p>
-
----
 
 ## ⏱️ Wakatime Stats
 
