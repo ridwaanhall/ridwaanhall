@@ -54,7 +54,7 @@ This section is dedicated to those who support my work monthly/one time through
 
 No perks, no extras—just pure support and my deepest thanks.
 Perfect for those unsure where to throw their money—I'm happy to catch it here.
-Your name will be listed below as a token of appreciation and as part of the community that helps me keep things running.
+Your support will be listed on my GitHub profile as a token of appreciation. Supporters will be prioritized when requesting new features or improvements in my projects.
 
 <table align="center">
     <tr>
