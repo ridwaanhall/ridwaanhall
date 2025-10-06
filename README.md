@@ -75,15 +75,19 @@ This section is dedicated to those who support my work monthly/one time through
 
 ## 😄 About Me
 
-- 🧑‍🏫 **Role:** Python Programmer & Indie Developer
+- 🧑‍🏫 **Role:** Python Programmer & Indie Developer — building with AI, ML, Web, and Python-powered projects
 - 💻 **Coding Since:** Oct 29, 2023 [![wakatime](https://wakatime.com/badge/user/018b799e-de53-4f7a-bb65-edc2df9f26d8.svg)](https://wakatime.com/@018b799e-de53-4f7a-bb65-edc2df9f26d8)
 - 🌏 **Location:** Indonesia (collaborating globally)
 - 🧑‍🤝‍🧑 **Pronouns:** he/him
-- 🌐 **Open To:** Remote, onsite, or hybrid work & collaborations in Machine Learning AI (PyTorch,TensorFlow), Web Development (Django, Flask), and related with Python.
+- 🌐 **Open To Work:**
+    - 🏠 Remote: Worldwide (with focus on Indonesia, UAE, Brunei, Singapore, Malaysia)
+    - 🏢 On-site: Greater Jakarta, Greater Yogyakarta, Surakarta, Boyolali (Central Java)
+    - 🔄 Hybrid: Available across listed on-site regions with flexible remote setup
 - 🎯 **Interests:**
     - 🛠️ Building open source tools and products for developers
     - 📚 Lifelong learning & sharing knowledge
     - 📖 Reading about technology, productivity, and personal growth
+    - 💹 Finance & investing, with a focus on IDX and Sharia-compliant stocks
 - 🤝 **Let’s Connect:** Always happy to chat or answer questions!
 
 ## 🛠️ Tech Stack
