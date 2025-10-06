@@ -20,7 +20,7 @@
     <img src="https://komarev.com/ghpvc/?username=ridwaanhall&color=blue&label=Profile%20Views" alt="Profile Views"/>
     <a href="https://www.linkedin.com/in/ridwaanhall/"><img src="https://img.shields.io/badge/LinkedIn-in/ridwaanhall-blue?logo=linkedin" alt="LinkedIn"></a>
     <a href="https://instagram.com/ridwaanhall"><img src="https://img.shields.io/badge/-@ridwaanhall-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white" alt="Instagram"></a>
-    <a href="https://twitter.com/ridwaanhall"><img src="https://img.shields.io/badge/-@ridwaanhall-1ca0f1?style=flat&labelColor=1ca0f1&logo=x&logoColor=white" alt="Twitter"></a>
+    <a href="https://x.com/ridwaanhall"><img src="https://img.shields.io/badge/-@ridwaanhall-000000?style=flat&labelColor=000000&logo=x&logoColor=white" alt="X"></a>
     <a href="mailto:hi@ridwaanhall.com"><img src="https://img.shields.io/badge/-hi@ridwaanhall.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white" alt="Gmail"></a>
     <a href="https://github.com/ridwaanhall"><img src="https://img.shields.io/github/followers/ridwaanhall?label=GitHub%20Followers" alt="GitHub Followers"></a>
 </p>
