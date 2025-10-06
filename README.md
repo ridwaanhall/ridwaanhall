@@ -28,6 +28,10 @@
 ## 🌟 Support My Work
 
 <p align="center">
+    If my projects sparked value—or your wallet’s begging for a diet—drop your funds here. I catch, I thank, I build.
+</p>
+
+<p align="center">
     <a href="https://github.com/sponsors/ridwaanhall/">
         <img src="https://img.shields.io/badge/-Sponsor%20Me-blue?style=for-the-badge&logo=github&logoColor=white" alt="Sponsor Me"/>
     </a>
@@ -43,22 +47,15 @@
 </p>
 
 <p align="center">
-    Your sponsorship helps me stay independent, maintain my open source projects, and keep building tools for the community.<br/>
-    Thank you for your support! 🚀
+    No gimmicks—just real support and real appreciation.
+    <br/>
+    Supporters get a name drop on GitHub and a louder voice in shaping future features.
 </p>
 
 ## 🙌 Supporter Circle
 
 This section is dedicated to those who support my work monthly/one time through
 [GitHub Sponsors](https://github.com/sponsors/ridwaanhall), [Buy Me a Coffee](https://buymeacoffee.com/ridwaanhall), [Saweria](https://saweria.co/ridwaanhall), or [Sociabuzz](https://sociabuzz.com/ridwaanhall/support).
-
-<p align="center">
-No perks, no extras—just pure support and my deepest thanks.
-<br/>
-Perfect for those unsure where to throw their money—I'm happy to catch it here.
-<br/>
-Supporters will be listed on my GitHub profile as a token of appreciation, and will be prioritized when requesting new features or improvements across my projects.
-</p>
 
 <table align="center">
     <tr>
