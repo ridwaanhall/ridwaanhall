@@ -52,9 +52,13 @@
 This section is dedicated to those who support my work monthly/one time through
 [GitHub Sponsors](https://github.com/sponsors/ridwaanhall), [Buy Me a Coffee](https://buymeacoffee.com/ridwaanhall), [Saweria](https://saweria.co/ridwaanhall), or [Sociabuzz](https://sociabuzz.com/ridwaanhall/support).
 
+<p align="center">
 No perks, no extras—just pure support and my deepest thanks.
+<br/>
 Perfect for those unsure where to throw their money—I'm happy to catch it here.
-Your support will be listed on my GitHub profile as a token of appreciation. Supporters will be prioritized when requesting new features or improvements in my projects.
+<br/>
+Supporters will be listed on my GitHub profile as a token of appreciation, and will be prioritized when requesting new features or improvements across my projects.
+</p>
 
 <table align="center">
     <tr>
