@@ -3,24 +3,23 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=1CA0F1&center=true&vCenter=true&width=435&lines=Assalamu'alaikum,+I'm+Ridwan;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=1CA0F1&center=true&vCenter=true&width=435&lines=Assalamu'alaikum,+I'm+Ridwan;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
 </h1>
 
 <p align="center">
     <samp>
-        <a href="https://ridwaanhall.com" target="_blank">Web Portfolio</a> |
-        <a href="https://bio.ridwaanhall.com" target="_blank">Landing Page</a> |
+        <a href="https://ridwaanhall.com" target="_blank">Web Portfolio</a> | <a href="https://bio.ridwaanhall.com" target="_blank">Landing Page</a> |
         <a href="https://ridwaanhall.com/blog/" target="_blank">Blog</a>
     </samp>
 </p>
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=ridwaanhall&color=blue&label=Profile%20Views" alt="Profile Views"/>
-    <a href="https://www.linkedin.com/in/ridwaanhall/"><img src="https://img.shields.io/badge/LinkedIn-in/ridwaanhall-blue?logo=linkedin" alt="LinkedIn"></a>
-    <a href="https://instagram.com/ridwaanhall"><img src="https://img.shields.io/badge/-@ridwaanhall-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white" alt="Instagram"></a>
-    <a href="https://x.com/ridwaanhall"><img src="https://img.shields.io/badge/-@ridwaanhall-000000?style=flat&labelColor=000000&logo=x&logoColor=white" alt="X"></a>
-    <a href="mailto:hi@ridwaanhall.com"><img src="https://img.shields.io/badge/-hi@ridwaanhall.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white" alt="Gmail"></a>
-    <a href="https://github.com/ridwaanhall"><img src="https://img.shields.io/github/followers/ridwaanhall?label=GitHub%20Followers" alt="GitHub Followers"></a>
+    <img src="https://komarev.com/ghpvc/?username=ridwaanhall&color=blue&label=Profile%20Views" alt="Profile Views" />
+    <a href="https://www.linkedin.com/in/ridwaanhall/"><img src="https://img.shields.io/badge/LinkedIn-in/ridwaanhall-blue?logo=linkedin" alt="LinkedIn" /></a>
+    <a href="https://instagram.com/ridwaanhall"><img src="https://img.shields.io/badge/-@ridwaanhall-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white" alt="Instagram" /></a>
+    <a href="https://x.com/ridwaanhall"><img src="https://img.shields.io/badge/-@ridwaanhall-000000?style=flat&labelColor=000000&logo=x&logoColor=white" alt="X" /></a>
+    <a href="mailto:hi@ridwaanhall.com"><img src="https://img.shields.io/badge/-hi@ridwaanhall.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white" alt="Gmail" /></a>
+    <a href="https://github.com/ridwaanhall"><img src="https://img.shields.io/github/followers/ridwaanhall?label=GitHub%20Followers" alt="GitHub Followers" /></a>
 </p>
 
 ## 🌟 Support My Work
@@ -31,22 +30,22 @@
 
 <p align="center">
     <a href="https://github.com/sponsors/ridwaanhall/">
-        <img src="https://img.shields.io/badge/-Sponsor%20Me-blue?style=for-the-badge&logo=github&logoColor=white" alt="Sponsor Me"/>
+        <img src="https://img.shields.io/badge/-Sponsor%20Me-blue?style=for-the-badge&logo=github&logoColor=white" alt="Sponsor Me" />
     </a>
     <a href="https://buymeacoffee.com/ridwaanhall">
-        <img src="https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-yellow?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Buy Me a Coffee"/>
+        <img src="https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-yellow?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Buy Me a Coffee" />
     </a>
     <a href="https://saweria.co/ridwaanhall">
-        <img src="https://img.shields.io/badge/-Saweria-orange?style=for-the-badge" alt="Saweria"/>
+        <img src="https://img.shields.io/badge/-Saweria-orange?style=for-the-badge" alt="Saweria" />
     </a>
     <a href="https://sociabuzz.com/ridwaanhall/support">
-        <img src="https://img.shields.io/badge/-Sociabuzz-red?style=for-the-badge" alt="Sociabuzz"/>
+        <img src="https://img.shields.io/badge/-Sociabuzz-red?style=for-the-badge" alt="Sociabuzz" />
     </a>
 </p>
 
 <p align="center">
     No gimmicks—just real support and real appreciation.
-    <br/>
+    <br />
     Supporters get a name drop on GitHub and a louder voice in shaping future features.
 </p>
 
@@ -61,7 +60,7 @@ This section is dedicated to those who support my work monthly/one time through
             <b>Current</b>
         </td>
         <td>
-            <img src="https://img.shields.io/badge/-Tony%20Celestino-05122A?style=flat" alt="Tony Celestino"/>
+            <img src="https://img.shields.io/badge/-Tony%20Celestino-05122A?style=flat" alt="Tony Celestino" />
         </td>
     </tr>
     <tr>
@@ -69,7 +68,7 @@ This section is dedicated to those who support my work monthly/one time through
             <b>Previous</b>
         </td>
         <td>
-            <img src="https://img.shields.io/badge/With%20deep%20appreciation%20for%20all%20past%20support%2C%20sponsorships%2C%20and%20donations%20that%20helped%20shape%20this%20journey💫-8A2BE2"/>
+            <img src="https://img.shields.io/badge/With%20deep%20appreciation%20for%20all%20past%20support%2C%20sponsorships%2C%20and%20donations%20that%20helped%20shape%20this%20journey💫-8A2BE2" />
         </td>
     </tr>
 </table>
@@ -198,21 +197,21 @@ This section is dedicated to those who support my work monthly/one time through
 ## 📊 GitHub Stats
 
 <p align="center">
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=ridwaanhall&show_icons=true&hide_border=true&theme=tokyonight&bg_color=00000000&count_private=true&hide=contribs" alt="GitHub Stats"/>
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridwaanhall&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&langs_count=6&hide=javascript,css,php" alt="Top Languages"/>
-    <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=ridwaanhall&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak"/>
+    <img height="200" src="https://github-readme-stats.vercel.app/api?username=ridwaanhall&show_icons=true&hide_border=true&theme=tokyonight&bg_color=00000000&count_private=true&hide=contribs" alt="Ridwan Halim GitHub Stats" />
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridwaanhall&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&langs_count=6&hide=javascript,css,php" alt="Top Languages" />
+    <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=ridwaanhall&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" />
 </p>
 
 ## ⏱️ Wakatime Stats
 
 <p align="center">
     <a href="https://wakatime.com/@ridwaanhall">
-        <img src="https://wakatime.com/share/@ridwaanhall/814541a6-1677-46dc-ba38-6bbec125c7b1.png" alt="Wakatime Chart" width="60%"/>
+        <img src="https://wakatime.com/share/@ridwaanhall/814541a6-1677-46dc-ba38-6bbec125c7b1.png" alt="Wakatime Chart" width="60%" />
     </a>
 </p>
 <p align="center">
     <a href="https://wakatime.com/@ridwaanhall">
-        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ridwaanhall&layout=compact&hide_border=true&hide=other&theme=tokyonight&bg_color=00000000&langs_count=6" alt="Wakatime Stats"/>
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ridwaanhall&layout=compact&hide_border=true&hide=other&theme=tokyonight&bg_color=00000000&langs_count=6" alt="Wakatime Stats" />
     </a>
 </p>
 
