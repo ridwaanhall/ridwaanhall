@@ -14,8 +14,6 @@
     </samp>
 </p>
 
-<br/>
-
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=ridwaanhall&color=blue&label=Profile%20Views" alt="Profile Views"/>
     <a href="https://www.linkedin.com/in/ridwaanhall/"><img src="https://img.shields.io/badge/LinkedIn-in/ridwaanhall-blue?logo=linkedin" alt="LinkedIn"></a>
