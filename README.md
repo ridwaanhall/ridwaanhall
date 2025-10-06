@@ -29,7 +29,7 @@
 
 <p align="center">
     <a href="https://github.com/sponsors/ridwaanhall/">
-        <img src="https://img.shields.io/badge/-Sponsor%20Me-blue?style=for-the-badge" alt="Sponsor Me"/>
+        <img src="https://img.shields.io/badge/-Sponsor%20Me-blue?style=for-the-badge&logo=github&logoColor=white" alt="Sponsor Me"/>
     </a>
     <a href="https://buymeacoffee.com/ridwaanhall">
         <img src="https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-yellow?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Buy Me a Coffee"/>
