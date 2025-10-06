@@ -70,7 +70,7 @@ Your name will be listed below as a token of appreciation and as part of the com
             <b>Previous</b>
         </td>
         <td>
-
+            <img src="https://img.shields.io/badge/With%20deep%20appreciation%20for%20all%20past%20support%2C%20sponsorships%2C%20and%20donations%20that%20helped%20shape%20this%20journey💫-8A2BE2"/>
         </td>
     </tr>
 </table>
