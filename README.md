@@ -8,8 +8,8 @@
 
 <p align="center">
     <samp>
-        <a href="https://ridwaanhall.com" target="_blank">Web Portfolio</a> &nbsp;|&nbsp;
-        <a href="https://bio.ridwaanhall.com" target="_blank">Landing Page</a> &nbsp;|&nbsp;
+        <a href="https://ridwaanhall.com" target="_blank">Web Portfolio</a> |
+        <a href="https://bio.ridwaanhall.com" target="_blank">Landing Page</a> |
         <a href="https://ridwaanhall.com/blog/" target="_blank">Blog</a>
     </samp>
 </p>
@@ -56,13 +56,24 @@ No perks, no extras—just pure support and my deepest thanks.
 Perfect for those unsure where to throw their money—I'm happy to catch it here.
 Your name will be listed below as a token of appreciation and as part of the community that helps me keep things running.
 
-### 🧡 Current
+<table align="center">
+    <tr>
+        <td>
+            <b>Current</b>
+        </td>
+        <td>
+            <img src="https://img.shields.io/badge/-Tony%20Celestino-05122A?style=flat" alt="Tony Celestino"/>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Previous</b>
+        </td>
+        <td>
 
-- Tony Celestino 💫
-
-### 💙 Previous
-
-*Thank you to all who have supported me in the past!*
+        </td>
+    </tr>
+</table>
 
 ## 😄 About Me
 
