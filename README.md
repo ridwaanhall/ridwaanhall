@@ -84,7 +84,7 @@ This section is dedicated to those who support my work monthly/one time through
     - 🏢 On-site: Greater Jakarta, Greater Yogyakarta, Surakarta, Boyolali (Central Java)
     - 🔄 Hybrid: Available across listed on-site regions with flexible remote setup
 - 🎯 **Interests:**
-    - 🛠️ Building open source tools and products for developers
+    - 🛠️ Building open source tools and products for developers & public
     - 📚 Lifelong learning & sharing knowledge
     - 📖 Reading about technology, productivity, and personal growth
     - 💹 Finance & investing, with a focus on IDX and Sharia-compliant stocks
