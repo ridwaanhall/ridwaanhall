@@ -60,7 +60,7 @@ This section is dedicated to those who support my work monthly/one time through
             <b>Current</b>
         </td>
         <td>
-            <img src="https://img.shields.io/badge/-None-05122A?style=flat" alt="None" />
+            <img src="https://img.shields.io/badge/-Masyhur Hilmy-8A2BE2?style=flat" alt="None" />
         </td>
     </tr>
     <tr>
