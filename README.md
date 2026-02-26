@@ -60,7 +60,7 @@ This section is dedicated to those who support my work monthly/one time through
             <b>Current</b>
         </td>
         <td>
-            <img src="https://img.shields.io/badge/-Masyhur Hilmy-8A2BE2?style=flat" alt="None" />
+            <img src="https://img.shields.io/badge/Support%20Me%20✨-To%20Stay%20Motivated%20Maintaining%20Projects%20Useful%20For%20Others-808080?style=flat" alt="Support Badge" />
         </td>
     </tr>
     <tr>
