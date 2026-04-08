@@ -49,25 +49,62 @@
     Supporters get a name drop on GitHub and a louder voice in shaping future features.
 </p>
 
-## 🙌 Supporter Circle
+## 💖 Supporters of RoneAI
 
-This section is dedicated to those who support my work monthly/one time through
+This section is dedicated to those who support my work monthly/one time through  
 [GitHub Sponsors](https://github.com/sponsors/ridwaanhall), [Buy Me a Coffee](https://buymeacoffee.com/ridwaanhall), [Saweria](https://saweria.co/ridwaanhall), or [Sociabuzz](https://sociabuzz.com/ridwaanhall/support).
 
 <table align="center">
     <tr>
+        <th>Tier</th>
+        <th>Price</th>
+        <th>Per</th>
+        <th>Supporters</th>
+    </tr>
+    <tr>
+        <td><b>Lifetime Patrons</b></td>
+        <td>$1500</td>
+        <td>One-time</td>
         <td>
-            <b>Current</b>
-        </td>
-        <td>
-            <!-- <img src="https://img.shields.io/badge/Support%20Me%20✨-To%20Stay%20Motivated%20Maintaining%20Projects%20Useful%20For%20Others-808080?style=flat" alt="Support Badge" /> -->
-            <img src="https://img.shields.io/badge/-Gart-05122A?style=flat" alt="Gart" />
+            <img src="https://img.shields.io/badge/Support%20Me%20in%20Lifetime%20Patrons-8A2BE2?style=flat" />
         </td>
     </tr>
     <tr>
+        <td><b>Elite Patrons</b></td>
+        <td>$50</td>
+        <td>Month</td>
         <td>
-            <b>Previous</b>
+            <img src="https://img.shields.io/badge/Support%20Me%20in%20Elite%20Patrons-FFD700?style=flat" />
         </td>
+    </tr>
+    <tr>
+        <td><b>Core Members</b></td>
+        <td>$10</td>
+        <td>Month</td>
+        <td>
+            <img src="https://img.shields.io/badge/Support%20Me%20in%20Core%20Members-228B22?style=flat" />
+        </td>
+    </tr>
+    <tr>
+        <td><b>Supporter Circle</b></td>
+        <td>$5</td>
+        <td>Month</td>
+        <td>
+            <img src="https://img.shields.io/badge/Support%20Me%20in%20Supporter%20Circle-05122A?style=flat" />
+        </td>
+    </tr>
+    <tr>
+        <td><b>Non-Membership</b></td>
+        <td>$5+</td>
+        <td>One-time</td>
+        <td>
+            <img src="https://img.shields.io/badge/-Gart-808080?style=flat" alt="Gart" />
+        </td>
+    </tr>
+    <tr>
+        <td><b>Previous</b></td>
+        <td>$1+</td>
+        <td>Unlimited</td>
         <td>
             <img src="https://img.shields.io/badge/With%20deep%20appreciation%20for%20all%20past%20support%2C%20sponsorships%2C%20and%20donations%20that%20helped%20shape%20this%20journey💫-8A2BE2" />
         </td>
