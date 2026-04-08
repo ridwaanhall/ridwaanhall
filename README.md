@@ -95,10 +95,11 @@ This section is dedicated to those who support my work monthly/one time through
     </tr>
     <tr>
         <td><b>Non-Membership</b></td>
-        <td>$5+</td>
+        <td>$1+</td>
         <td>One-time</td>
         <td>
             <img src="https://img.shields.io/badge/-Gart-808080?style=flat" alt="Gart" />
+            <img src="https://img.shields.io/badge/-Muhammad%20Yahya%20Yasin-808080?style=flat" alt="Muhammad Yahya Yasin" />
         </td>
     </tr>
     <tr>
