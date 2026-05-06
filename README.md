@@ -98,8 +98,7 @@ This section is dedicated to those who support my work monthly/one time through
         <td>$1+</td>
         <td>One-time</td>
         <td>
-            <img src="https://img.shields.io/badge/-Gart-808080?style=flat" alt="Gart" />
-            <img src="https://img.shields.io/badge/-Muhammad%20Yahya%20Yasin-808080?style=flat" alt="Muhammad Yahya Yasin" />
+            <img src="https://img.shields.io/badge/Support%20Me%20in%20Non%20Membership-05122A?style=flat" />
         </td>
     </tr>
     <tr>
